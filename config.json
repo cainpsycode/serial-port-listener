@@ -1,0 +1,4 @@
+{
+    "port": "/dev/ttyAMA0",
+    "baudrate": 57600
+}
