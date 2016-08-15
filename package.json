@@ -9,6 +9,7 @@
   "author": "cainpsycode",
   "license": "MIT",
   "dependencies": {
-    "serialport": "^4.0.1"
+    "serialport": "^4.0.1",
+    "timespan": "^2.3.0"
   }
 }

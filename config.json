@@ -1,7 +1,18 @@
 {
-    "port": "/dev/ttyAMA0",
-    "baudrate": 57600,
-    "stopBits": 1,
-    "parity": "none",
-    "dataBits": 8
+    "port1": {
+        "name": "enoceanpi <<",
+        "port": "com6",
+        "baudrate": 57600,
+        "stopBits": 1,
+        "parity": "none",
+        "dataBits": 8
+    },
+    "port2": {
+        "name": "raspberry >>",
+        "port": "com7",
+        "baudrate": 57600,
+        "stopBits": 1,
+        "parity": "none",
+        "dataBits": 8
+    }
 }
